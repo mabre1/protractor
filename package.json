@@ -1,0 +1,18 @@
+{
+  "name": "protractortest",
+  "version": "1.0.0",
+  "description": "takin' ye olde Tractor out for a spin!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "an",
+    "alsortment",
+    "of",
+    "spanish",
+    "hats"
+  ],
+  "author": "not me",
+  "license": "ISC"
+}
